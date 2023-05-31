@@ -12,7 +12,7 @@ const Home = () => {
 	};
 	return (
 		<div className="container">
-			<h2>Crud App with JSON Server</h2>
+			<h2>E-REGISTER APP</h2>
 			<Link to="/create" className="btn btn-success my-3">
 				Create +
 			</Link>
